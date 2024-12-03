@@ -1,2 +1,4 @@
 # SQLite
-A single C# file to import and use SQLite functionaility.
+A single C# file to import and use SQLite functionality.
+
+
